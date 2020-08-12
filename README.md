@@ -1,1 +1,2 @@
 # HISTOGRAM
+![](input(a).jpg)
