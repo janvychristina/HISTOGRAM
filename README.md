@@ -3,6 +3,10 @@
 
 ### Implement a Histogram equalization from scratch using C++ .  Input should be an Image and theoutput should be a Linear filtered Image, Neat Documentation is expected with Code, Explanation,Input, and Output Image.
 
+## PREREQUISITE:
+* IDE which supports C++
+* OpenCV 
+
 ## INPUTS
 ![](input(a).jpg)
 ![](input(b).jpg)
